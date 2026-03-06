@@ -1,7 +1,10 @@
 <template>
   <q-page class="q-pa-md">
-    <div class="text-h4 q-mb-md text-center text-weight-bold text-primary">
+    <div class="text-h4 q-pt-md text-center text-weight-bold text-primary">
       📋 Task Manager
+    </div>
+    <div class="text-subtitle1 q-mb-md text-center text-grey-8">
+      จัดทำโดย: พงศกร คำวัง (6604101352)
     </div>
 
     <div class="row justify-center q-mb-md">

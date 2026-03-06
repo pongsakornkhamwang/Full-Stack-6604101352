@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Quasar App
+          Full Stack Exam - พงศกร คำวัง (6604101352)
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
