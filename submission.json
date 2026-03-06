@@ -1,0 +1,11 @@
+{
+  "student_id": "6604101352",
+  "name": "Pongsakorn Khamwang",
+  "github_repo": "https://github.com/pongsakornkhamwang/Full-Stack-6604101352",
+  "backend_base_url": "https://full-stack-6604101352.onrender.com",
+  "frontend_url": "https://full-stack-6604101352.netlify.app",
+  "api": {
+    "health": "https://full-stack-6604101352.onrender.com/api/health",
+    "tasks": "https://full-stack-6604101352.onrender.com/api/tasks"
+  }
+}
